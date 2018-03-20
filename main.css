@@ -1,0 +1,57 @@
+body {
+	font-family: Vi, monospace;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+.hero { 
+
+	font-family: Calibri, monospace;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 50px;
+    
+}
+
+h2 {
+	color: black;
+	font-size: 100px; 
+}
+
+
+.hero {
+	background-image: url("Burj.jpg");
+	background-position: center top;
+	background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
+	text-shadow: 0 2px #000000;
+	font-family: 'Trebuchet MS', 'Helvetica';
+}
+
+
+p {
+	color: dimgray;
+	font-size: 3em;
+}
+
+.hero a {
+	color: whitesmoke;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+#footer {
+	color: DarkSlateGray;
+	font-size: 16px;
+}
+
+	
+
